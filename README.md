@@ -1,5 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
+<!-- badge: https://github.com/Ileriayo/markdown-badges -->
 ## Platform & Tools
 
 [![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=flat)](https://archlinux.org/)
